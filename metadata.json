@@ -1,0 +1,8 @@
+{
+  "name": "Rain Channel AI Agent",
+  "description": "Platform manajemen & otomasi channel YouTube Rain & Piano berbasis multi-agen AI dengan riset tren, analitik, rendering FFmpeg 3 jam, studio thumbnail, SEO, dan persetujuan publikasi manual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
